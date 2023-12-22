@@ -1,0 +1,10 @@
+Ground-coupled heat exchanger,1
+True
+nicolaasburgers
+-
+-
+-
+Best AEC
+Passive
+Cooling
+Geo
